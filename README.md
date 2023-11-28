@@ -2,7 +2,8 @@
 
 #How To  Run:
 
-1.Dsiable your Real Time Protection becuause windows dont trust us.
+1.Dsiable your Real Time Protection becuause windows dont trust us. 
+
 2.Run PyEchooDoom
 
 #How To Disable Real Time Protection:
